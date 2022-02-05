@@ -1,14 +1,15 @@
+<<<<<<< HEAD
 # Python Challenge
 
 ## Background
 
 Using basic Python concepts, I completed the **two** Python Challenges, PyBank and PyPoll in which I encompass a real-world situation using Python scripting skills.
 
-
 ## PyBank
 
 ![Revenue](Images/revenue-per-lead.png)
 
+<<<<<<< HEAD
 * Here I created a Python script for analyzing the financial records of your company. I was given give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
 * I created a Python script that analyzes the records to calculate each of the following:
@@ -23,6 +24,7 @@ Using basic Python concepts, I completed the **two** Python Challenges, PyBank a
 
   * The greatest decrease in profits (date and amount) over the entire period
 
+<<<<<<< HEAD
 * Expected Analysis Outcome:
 
   ```text
@@ -34,7 +36,6 @@ Using basic Python concepts, I completed the **two** Python Challenges, PyBank a
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
-
 
 ## PyPoll
 
@@ -67,5 +68,3 @@ Using basic Python concepts, I completed the **two** Python Challenges, PyBank a
   Winner: Khan
   -------------------------
   ```
-
-
