@@ -34,8 +34,6 @@ Using basic Python concepts, I completed the **two** Python Challenges, PyBank a
 
 ## PyPoll
 
-![Vote Counting](Images/Vote_counting.png)
-
 * I was given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. I created a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
