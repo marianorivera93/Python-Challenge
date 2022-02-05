@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Challenge
 
 ## Background
@@ -7,9 +6,6 @@ Using basic Python concepts, I completed the **two** Python Challenges, PyBank a
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
-
-<<<<<<< HEAD
 * Here I created a Python script for analyzing the financial records of your company. I was given give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
 * I created a Python script that analyzes the records to calculate each of the following:
@@ -24,7 +20,6 @@ Using basic Python concepts, I completed the **two** Python Challenges, PyBank a
 
   * The greatest decrease in profits (date and amount) over the entire period
 
-<<<<<<< HEAD
 * Expected Analysis Outcome:
 
   ```text
